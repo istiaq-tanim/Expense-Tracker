@@ -1,16 +1,28 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "name": "Salary from Google",
-            "type": "income",
-            "amount": 1000000
-        },
-        {
-            "id": 2,
-            "name": "Family Expenses",
-            "type": "expense",
-            "amount": 200000
-        }
-    ]
+  "transactions": [
+    {
+      "name": "Salary From P Hero",
+      "amount": "10000",
+      "type": "income",
+      "id": 1
+    },
+    {
+      "name": "Utility",
+      "amount": "5000",
+      "type": "expense",
+      "id": 6
+    },
+    {
+      "name": "Salary From Goggle",
+      "type": "income",
+      "amount": 20000,
+      "id": 7
+    },
+    {
+      "name": "Travelling",
+      "type": "expense",
+      "amount": 5000,
+      "id": 8
+    }
+  ]
 }
